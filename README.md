@@ -6,3 +6,6 @@ QuiBrain Phase 1 Beta is touted to have the following features:-
 1. Object and face Recognition(Varied Objects)
 2. Real Time data logging
 3. Historical data storage
+
+If you have any queries feel free to connect to me @ kuldeep@quinch.co.in
+
